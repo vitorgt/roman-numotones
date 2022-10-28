@@ -45,7 +45,7 @@ Roman Numotones are that... on steroids
 
 |     | ABC | DoReMi | Frequency |
 | :-: | :-: | :----: | :-------: |
-|  I  | D 5 |  Ré 5  |  587 Hz   |
+|  I  | D 5 |  Re 5  |  587 Hz   |
 |  V  | B 4 |  Si 4  |  494 Hz   |
 |  X  | G 4 | Sol 4  |  392 Hz   |
 
@@ -74,3 +74,7 @@ Last updated: 2015-07-08
 Rating: 5/5 (255)
 
 Size: 9Mb
+
+By: Blacktree
+
+Source code: https://github.com/alcor/blacktree-chime
